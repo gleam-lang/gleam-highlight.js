@@ -1,5 +1,5 @@
 {
-  "name": "highlight.js-gleam",
+  "name": "@gleam-lang/highlight.js-gleam",
   "version": "1.0.0",
   "description": "Adds support for the Gleam language to highlight.js.",
   "main": "index.js",
