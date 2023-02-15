@@ -1,6 +1,6 @@
 {
   "name": "@gleam-lang/highlight.js-gleam",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Adds support for the Gleam language to highlight.js.",
   "main": "index.js",
   "scripts": {
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/aflatter/highlight.js-gleam.git"
+    "url": "git+https://github.com/gleam-lang/highlight.js-gleam.git"
   },
   "author": "",
   "license": "Apache-2.0",
   "bugs": {
-    "url": "https://github.com/aflatter/highlight.js-gleam/issues"
+    "url": "https://github.com/gleam-lang/highlight.js-gleam/issues"
   },
-  "homepage": "https://github.com/aflatter/highlight.js-gleam#readme",
+  "homepage": "https://github.com/gleam-lang/highlight.js-gleam#readme",
   "devDependencies": {
     "standard": "^17.0.0"
   }
