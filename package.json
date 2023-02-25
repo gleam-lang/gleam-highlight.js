@@ -1,6 +1,6 @@
 {
   "name": "@gleam-lang/highlight.js-gleam",
-  "version": "1.1.0",
+  "version": "1.2.0",
   "description": "Adds support for the Gleam language to highlight.js.",
   "main": "index.js",
   "scripts": {
