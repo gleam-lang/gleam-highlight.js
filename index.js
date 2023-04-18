@@ -1,7 +1,7 @@
 module.exports = function (hljs) {
   const KEYWORDS =
     "as assert case const external fn if import let " +
-    "panic opaque pub todo try tuple type use";
+    "panic opaque pub todo tuple type use";
   const STRING = {
     className: "string",
     variants: [{ begin: /"/, end: /"/ }],
