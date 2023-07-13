@@ -60,6 +60,7 @@ module.exports = function (hljs) {
           },
           KEYWORDS,
           STRING,
+          NAME,
           DISCARD_NAME,
           NUMBER,
         ],
