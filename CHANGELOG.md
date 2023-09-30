@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.0 - Unreleased
+
+- Updated for Gleam v0.32.0
+
 ## 1.4.0 - 2023-07-28
 
 - Updated for Gleam v0.30.0
