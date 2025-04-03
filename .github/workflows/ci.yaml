@@ -17,8 +17,10 @@ jobs:
       - name: Validate code style using "Standard JS"
         run: npm ci
 
-      - name: Validate build output is up-to-date
+      - name: Generate build output (should not generate changes)
         run: npm run build
+
+      - name: Validate build output is up-to-date
         run: |
           if [ -n "$(git status --porcelain)" ]; then
             echo "❌ Build output is not up-to-date."
