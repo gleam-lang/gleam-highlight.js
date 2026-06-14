@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/gleam-lang/gleam-highlight.js#readme",
   "devDependencies": {
-    "esbuild": "^0.25.2",
+    "esbuild": "^0.28.1",
     "standard": "^17.0.0"
   }
 }
